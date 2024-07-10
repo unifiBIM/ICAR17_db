@@ -1,4 +1,4 @@
-# 02_SQL-Workflow
+# SQL-Workflow
 This script has been made as an **exercise** to populate a PostgreSQL database with data coming from a series of CSV files regarding the management of courses in a public university.
 
 PostgreSQL is available for download as ready-to-use packages or installers for various platforms and you can download it from [here](https://www.postgresql.org/download/). Installation file includes also the GUI (pgAdmin)[https://www.pgadmin.org/), usefull for beginners. If you are interested in a deeper explanation of how PostgreSQL works you can find the official documentation [here][https://www.postgresql.org/docs/16/index.html).
